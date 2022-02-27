@@ -1,0 +1,6 @@
+bear
+bug
+mouse
+python
+tick
+worm

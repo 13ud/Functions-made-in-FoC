@@ -1,0 +1,3 @@
+Put elephant in the fridge,Open the fridge,Put elephant inside,Close the fridge
+Do well in COMP10001,Listen to lectures,Attend tutorials,Do Grok worksheets
+Don't know whether to add vegetables first or rice first when cooking fried rice,Ask mom,Do whatever mom said
